@@ -1,5 +1,5 @@
 #TOFブランチを画像として追加 CV=0.824
-#CMI 2025 デモ提出 バージョン62 LB=
+#CMI 2025 デモ提出 バージョン62 LB=0.74
 import os
 import numpy as np
 import pandas as pd
